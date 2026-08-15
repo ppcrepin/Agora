@@ -412,3 +412,38 @@ de chacun, et le groupe : qui, ce jour-là, s'est révélé le plus proche et le
 - **« Qui te ressemble, qui te contredit »** est un classement entre personnes :
   il faudra concevoir contre l'effet de palmarès et contre la blessure de se
   découvrir le plus éloigné de tous.
+
+---
+
+## 19. Direction artistique et premiers pas
+
+| Sujet | Décision |
+|---|---|
+| Famille d'objets | **L'instrument de mesure domine** — graduations, précision, sobriété |
+| Registre | Carnet chaud à l'origine, largement **recouvert par l'instrument** (voir réserve ci-dessous) |
+| Forme du profil | **Le radar à dix branches**, sauvé du générique par le monochrome |
+| Couleur des valeurs | **Monochrome et densité** — aucune teinte, l'identité par la position et l'étiquette |
+| Typographie | **Serif de labeur** pour la question et les propositions, **grotesque discrète** pour l'interface. Deux voix, jamais trois |
+| Mouvement | **Le profil seul et la navigation.** Rien ne bouge sur la question, les propositions, les chiffres ni les résultats. Aucun compteur qui s'incrémente |
+| Thème | **Sombre par défaut**, clair en option |
+| Notifications | **Toutes activées** : question du matin, révélation de 19 h, bilan du dimanche, fin des votes du groupe |
+| Bilan du dimanche | **Une planche partageable** dessinée d'abord comme une image, l'écran en découlant |
+| Premier lancement | **Jouer d'abord, s'inscrire au moment de voir son profil** |
+| Nom des valeurs | **Les termes de Schwartz**, tels quels |
+
+### Réserves inscrites au dossier
+
+- **Le carnet chaud et l'instrument sombre ne coexistent plus.** En mode sombre
+  il n'y a pas de papier : la chaleur devra venir de l'encre et du grain, ou
+  disparaître. À rouvrir avec la direction artistique avant toute planche.
+- **Le monochrome rachète le radar.** Ce qui rend un radar générique, c'est le
+  remplissage translucide multicolore des bibliothèques de graphiques ; un radar
+  monochrome encodé par la densité n'est plus le rendu par défaut. Il règle en
+  outre le piège du code partisan et la lisibilité en daltonisme.
+- **Neuf notifications par semaine** est le volume à partir duquel les
+  utilisateurs coupent globalement plutôt que finement. Atténuation proposée :
+  la notification de groupe ne se déclenche que si le groupe est réellement
+  actif, et un plafond dur est codé en dur.
+- **« Tu es haut en Pouvoir » se lit comme un reproche.** Le vocabulaire savant
+  est conservé pour la rigueur, mais la phrase qui entoure le terme devra porter
+  tout le travail de neutralisation.
