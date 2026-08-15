@@ -323,3 +323,39 @@ pour une application de vote.
 - Le mécanisme exact de « célébration » d'un changement d'avis.
 - La formulation précise des cinq mentions et des cinq sources épistémiques.
 - Le sort des votes d'archive dans les statistiques nationales.
+
+---
+
+## 17. Décisions révisées après les dossiers de questions
+
+Sept dossiers de spécialistes (voir `docs/questions/`) ont produit environ 280
+questions et relevé plusieurs contradictions dans le cadrage initial. Les
+décisions ci-dessous **remplacent** celles des sections précédentes.
+
+| Sujet | Décision initiale | Décision révisée | Motif |
+|---|---|---|---|
+| Nature du projet | ouverte | **Bien commun civique** | Seul cadre où « profil de valeurs » et « contrôle de neutralité par les utilisateurs » ne sont pas des promesses intenables |
+| Anonymat / profils | votes anonymes, profils visibles | **Vote secret par défaut, révélation volontaire après résultat ; profils visibles** | Le recoupement profil × résultat par question trahissait le vote dans tout petit groupe |
+| Durée de session | 3 minutes | **5 minutes, parcours complet** | Le parcours décrit fait 4 à 6 minutes chronométrées ; la promesse initiale était fausse |
+| Échelle de mentions | 5 mentions | **6 mentions** (À rejeter · Insuffisant · Passable · Assez bien · Bien · Très bien) | Échelle d'Orsay 2007 de Balinski et Laraki ; pas de milieu neutre, donc pas de refuge, et moins d'égalités sur la médiane |
+| Chiffres du dossier | tirés des flux de presse | **Sources publiques uniquement** (INSEE, Eurostat, ministères, data.gouv), extrait consultable | Un flux RSS ne contient pas de chiffres : le modèle les aurait fabriqués en leur attribuant une source |
+| Archives | rejouables à volonté, tout compte | **Un seul vote par question ; le rejeu écrase et recalcule** | La rejouabilité illimitée rendait le profil fabricable |
+| Régime éditorial | publication automatique | **Post-modération** : publication automatique, retrait en un clic, signalement utilisateur | Seul régime tenable sans équipe ; le risque factuel est fortement réduit par le passage aux sources publiques |
+| Partage | non tranché | **Export image de son profil personnel**, partageable hors de l'app | Partage choisi, jamais le résultat d'un vote |
+
+### Ce que ces décisions impliquent
+
+- **Les flux de presse ne servent plus qu'à repérer le sujet.** Les faits viennent
+  d'ailleurs, et un sujet non documenté par une statistique publique devient
+  inéligible. C'est une restriction réelle du champ couvert.
+- **La révélation volontaire crée une pression sociale** : dans une famille, ne pas
+  révéler son vote est un signal en soi. Il faudra concevoir contre cet effet —
+  la révélation doit rester rare et jamais comptabilisée.
+- **Six mentions × quatre propositions sur mobile** contraignent fortement la
+  disposition de l'écran de vote, probablement vers une lecture verticale.
+- **Le rejeu qui écrase** impose de conserver l'historique des versions d'un vote
+  et de recalculer le profil, ce que le modèle de données doit prévoir dès le
+  premier enregistrement.
+- **Le statut de bien commun** rend la transparence de l'algorithme de profil et
+  de la ligne éditoriale opposable au public, donc obligatoire et non plus
+  optionnelle.
