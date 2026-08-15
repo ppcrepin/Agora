@@ -1,4 +1,7 @@
-# Agora *(nom de travail)*
+# Endoxa
+
+> *ἔνδοξα* — chez Aristote, les opinions communément admises : celles que
+> partagent le plus grand nombre, ou les sages.
 
 Une application quotidienne pour découvrir son propre système de valeurs.
 

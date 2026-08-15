@@ -1,4 +1,7 @@
-# Cadrage produit — document de travail
+# Endoxa — cadrage produit
+
+> *ἔνδοξα* : chez Aristote, les opinions communément admises — celles que
+> partagent le plus grand nombre, ou les sages.
 
 > Statut : brouillon issu d'une session de brainstorm. Aucune ligne de code n'a
 > encore été écrite. Tout ce qui suit est révisable ; les points marqués
@@ -55,8 +58,10 @@ L'actualité est le prétexte, pas le sujet.
 | Plateforme | Web mobile (PWA) d'abord, natif ensuite si ça prend |
 | Session type | ~3 minutes |
 | Périmètre v1 | Expérience **solo complète**, sans groupes |
+| Archives | Questions passées **rejouables à volonté** |
+| Rendez-vous hebdo | **Le bilan du dimanche** |
+| Nom | **Endoxa** |
 | Nature du projet | **[ouvert]** — à trancher plus tard |
-| Nom | **[ouvert]** — « Agora » est un nom de travail |
 
 ## 4. La boucle quotidienne
 
@@ -264,29 +269,57 @@ rejeu annuel, usage scolaire, éventuelle ouverture publique.
 | Validation par les stores sur un sujet politique | Faible en v1 | Le web contourne la question jusqu'au passage au natif |
 | Groupe trop petit pour des agrégats sensés | Moyenne | Seuil minimal avant affichage des résultats de groupe |
 
-## 13. Pistes de nom
+## 13. Les archives
 
-Le nom devrait évoquer le miroir et la nuance plutôt que la place publique,
-puisque le cœur du produit est l'introspection.
+Toutes les questions passées restent **rejouables à volonté**, dans une
+bibliothèque consultable. Trois raisons :
 
-| Nom | Pourquoi |
-|---|---|
-| **Nuance** | Dit exactement ce que fait le produit, et l'oppose frontalement à la polarisation. Calme, français, immédiatement compris. |
-| **Axia** | *Valeur* en grec. Court, sobre, international, sans concurrence évidente. |
-| **Diapason** | « Se mettre au diapason » : l'accord et le désaccord dans un seul mot. Très beau en français, un peu long. |
-| **Prisme** | Décomposer une opinion en son spectre de valeurs. La métaphore est juste et visuelle. |
-| **Le Cercle** | Double sens : le cercle des valeurs de Schwartz et le cercle des proches. Peut-être trop discret. |
-| **Boussole** | Immédiatement compris, mais très employé et un peu attendu. |
-| **Iris** | L'œil qui regarde, le diaphragme qui s'ouvre, l'irisation du spectre. Court et élégant, sens un peu indirect. |
-| **Repères** | Chaleureux et français, mais moins distinctif. |
+- Un nouvel arrivant peut enrichir son radar sans attendre trois semaines.
+- Un utilisateur qui saute des jours n'est pas puni.
+- C'est le support naturel du changement d'avis : rejouer une vieille question
+  et découvrir qu'on ne la juge plus pareil.
 
-## 14. Points encore ouverts
+Conséquence sur les données : un vote d'archive doit être **distingué** du vote
+du jour dans les statistiques publiques, sans quoi on mélangerait des jugements
+formés dans des contextes différents. Il compte pleinement pour le profil
+personnel, mais pas dans le résultat officiel de la journée.
+
+## 14. Le bilan du dimanche
+
+Un rendez-vous hebdomadaire, plus lent que le quotidien, qui sert directement la
+promesse d'introspection :
+
+- Ce qui a bougé sur ton radar cette semaine, et grâce à quelle question.
+- Ta position la plus atypique par rapport à l'ensemble.
+- Le sujet sur lequel ton groupe s'est le plus divisé.
+- La valeur que tu as le plus mobilisée sans t'en rendre compte.
+- Éventuellement : une question ancienne à rejouer.
+
+C'est aussi le format qui se partage le mieux, et le seul moment où l'on peut
+raisonnablement se permettre une notification.
+
+## 15. Le nom
+
+**Endoxa**, retenu après vérification de disponibilité.
+
+*ἔνδοξα* désigne chez Aristote les opinions communément admises — celles que
+partagent le plus grand nombre, ou les sages. C'est littéralement l'objet de
+l'application.
+
+Vérifications effectuées : `endoxa.fr` et `endoxa.app` ne résolvent pas en DNS,
+ce qui suggère qu'ils sont libres — **à confirmer chez un registrar**, l'absence
+de DNS ne prouvant pas la disponibilité. `endoxa.com` appartient à un éditeur
+B2B sud-africain sans visibilité en France.
+
+*Doxa* seul a été écarté : marque horlogère suisse établie, domaines pris, et
+surtout confusion avec **Odoxa**, institut de sondage français — rédhibitoire
+pour une application de vote.
+
+## 16. Points encore ouverts
 
 - La nature du projet : personnel, civique, ou produit à monter.
-- Le nom.
-- L'identité visuelle et le traitement du radar.
+- L'identité visuelle et le traitement graphique du radar.
 - Le seuil de membres à partir duquel les résultats d'un groupe s'affichent.
-- Le sort des questions périmées : archives rejouables ou disparition.
 - Le mécanisme exact de « célébration » d'un changement d'avis.
-- Faut-il un rendez-vous hebdomadaire (bilan, question longue) en plus du
-  quotidien.
+- La formulation précise des cinq mentions et des cinq sources épistémiques.
+- Le sort des votes d'archive dans les statistiques nationales.
