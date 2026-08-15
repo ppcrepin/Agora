@@ -484,3 +484,19 @@ du travail éditorial**, et il ne coûte rien à produire.
   parti.
 - Le quota d'angle mort est aussi ce qui différencie le produit : les arbitrages
   publics réels se décident largement hors des cycles d'actualité chaude.
+
+---
+
+## 22. Le profil dans le temps
+
+| Sujet | Décision |
+|---|---|
+| Fenêtre de calcul | **Cumulatif à poids décroissant** — tout compte, les votes anciens pèsent progressivement moins |
+| Avant d'être fiable | **Radar visible dès le premier vote**, avec l'incertitude rendue par un bord flou qui se durcit à mesure des votes |
+| Désaccord de l'utilisateur | **On montre le calcul** : les cinq votes ayant le plus contribué à la valeur contestée. Jamais de correction manuelle |
+| Invitation à un groupe | **Nom, membres, et la question du jour jouable** avant d'accepter. Aucune donnée de valeurs visible avant d'être membre |
+
+**Point de conception :** le poids décroissant est réputé inexplicable, et
+l'explication du calcul est réputée coûteuse. Les deux se réconcilient si l'écran
+d'explication **affiche le poids de chaque vote** : la décroissance devient
+visible, donc compréhensible, et c'est même la meilleure façon de l'enseigner.
