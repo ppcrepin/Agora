@@ -359,3 +359,56 @@ décisions ci-dessous **remplacent** celles des sections précédentes.
 - **Le statut de bien commun** rend la transparence de l'algorithme de profil et
   de la ligne éditoriale opposable au public, donc obligatoire et non plus
   optionnelle.
+
+---
+
+## 18. La boucle en deux temps
+
+Les décisions suivantes transforment le rituel quotidien : il y a désormais
+**deux rendez-vous par jour**.
+
+| Sujet | Décision |
+|---|---|
+| Parution de la question | **5 h**, heure de Paris |
+| Clôture du scrutin | **19 h** |
+| Révélation des résultats | **19 h**, pour tout le monde en même temps |
+| Pendant la journée | **Un compte à rebours** et rien d'autre — aucune tendance, aucun résultat partiel |
+| Argument d'en face | **Juste après mon vote**, le matin — il ne dépend que de mon propre jugement |
+| Source du profil | **Propositions notées et justification choisie**, avec la **contribution du jour affichée** après chaque vote |
+| Âge minimal | **15 ans**, mode scolaire repoussé et traité comme un produit distinct |
+| Vie du groupe | **« Qui te ressemble, qui te contredit »** — classement des membres par distance de valeurs, sur la valeur qui fait l'écart |
+| Révélation du vote | Volontaire, après la clôture, **sans compteur** de ceux qui n'ont pas révélé |
+| Compte | Création facilitée par **Google ou Apple**, sinon identifiant et mot de passe |
+| Avant de coder | **Prototype d'abord**, l'étude de validation du profil pouvant tourner en parallèle |
+
+### Le matin, vers 5 minutes
+
+Le contexte, le dossier factuel, le vote sur six mentions, la justification
+choisie, l'origine de la conviction, l'argument d'en face, la contribution du
+vote au profil. La session se termine sur un compte à rebours vers 19 h.
+
+### Le soir, en une minute
+
+Le résultat au jugement majoritaire, la distribution des mentions, la position
+de chacun, et le groupe : qui, ce jour-là, s'est révélé le plus proche et le plus
+éloigné de soi.
+
+### Ce que ces décisions impliquent
+
+- **Deux occasions de perdre l'utilisateur au lieu d'une.** Celui qui ne revient
+  pas le soir ne voit jamais de résultat. La notification de 19 h devient donc
+  structurelle, et non plus un confort.
+- **L'argument d'en face ne peut plus être « le plus choisi par le camp
+  opposé »**, puisqu'il apparaît avant la clôture. Il devient la meilleure
+  justification opposée à la mienne, rédigée à l'avance et sélectionnée selon
+  mon vote.
+- **La contribution affichée après chaque vote** oblige à ce que le vecteur de
+  valeurs de chaque proposition et de chaque justification soit non seulement
+  correct, mais explicable en une ligne.
+- **L'authentification par Google ou Apple** rattache un profil d'opinions
+  politiques à un identifiant réel détenu par un tiers. C'est un arbitrage
+  assumé entre facilité d'entrée et minimisation, à réexaminer avec le dossier
+  protection des données.
+- **« Qui te ressemble, qui te contredit »** est un classement entre personnes :
+  il faudra concevoir contre l'effet de palmarès et contre la blessure de se
+  découvrir le plus éloigné de tous.
