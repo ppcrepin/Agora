@@ -500,3 +500,27 @@ du travail éditorial**, et il ne coûte rien à produire.
 l'explication du calcul est réputée coûteuse. Les deux se réconcilient si l'écran
 d'explication **affiche le poids de chaque vote** : la décroissance devient
 visible, donc compréhensible, et c'est même la meilleure façon de l'enseigner.
+
+---
+
+## 23. Vie des groupes, partage et mesure
+
+| Sujet | Décision |
+|---|---|
+| Groupe sans quorum | **Mise en veille après quatorze jours** — l'écran du groupe disparaît au profit de la comparaison nationale. N'importe quel membre peut le réveiller une fois par mois |
+| Échelle des groupes | **Deux objets distincts** : un *cercle* jusqu'à douze membres, où l'on voit chacun ; une *assemblée* au-delà, qui ne montre que des agrégats |
+| Objet partagé | **La planche du dimanche** |
+| Mesure du succès | **Métriques d'engagement** — utilisateurs actifs, rétention à sept et trente jours, durée de session |
+
+### Réserves inscrites au dossier
+
+- **La planche du dimanche devient un objet public.** Son contenu doit donc être
+  conçu pour l'extérieur : elle ne peut exposer ni les votes de la personne ni
+  ses positions, seulement ce qu'elle accepte de rendre visible. À arbitrer
+  précisément lors de sa conception, avant l'écran de l'app dont elle découle.
+- **Les métriques d'engagement mesurent une promesse que le produit n'a pas
+  faite.** Elles sont un bon instrument à la condition, écrite, qu'elles ne
+  soient jamais un objectif : la ligne entre mesurer et optimiser est ce qui
+  sépare ce produit de ceux dont il se distingue.
+- **Un groupe mis en veille ne doit jamais afficher son propre cadavre.** Le
+  membre resté seul voit la comparaison nationale, pas quatre lignes vides.
