@@ -447,3 +447,40 @@ de chacun, et le groupe : qui, ce jour-là, s'est révélé le plus proche et le
 - **« Tu es haut en Pouvoir » se lit comme un reproche.** Le vocabulaire savant
   est conservé pour la rigueur, mais la phrase qui entoure le terme devra porter
   tout le travail de neutralisation.
+
+---
+
+## 20. Le geste de vote
+
+| Sujet | Décision |
+|---|---|
+| Nombre de propositions | **Quatre**, soit vingt-quatre décisions par jour avec six mentions |
+| Écran de vote | **Séquentiel, puis récapitulatif modifiable** — on ne peut calibrer ses mentions que si on les voit ensemble |
+| « Sans avis » | **Une case détachée sur chaque proposition**, sans possibilité de passer la question entière |
+| Justification | Les quatre proposées, plus **« aucune de ces raisons »** — comptabilisée, exclue du profil, et son taux publié |
+
+Le taux de « aucune de ces raisons » devient l'**indicateur de qualité numéro un
+du travail éditorial**, et il ne coûte rien à produire.
+
+## 21. Ligne éditoriale
+
+| Sujet | Décision |
+|---|---|
+| Choix du sujet | **Tirage aléatoire parmi les sujets éligibles**, équilibré sur cinq champs (économie, environnement, institutions, société, international) sur une fenêtre de trente jours, **plus un quota hebdomadaire d'angle mort** — un sujet peu couvert par la presse mais éligible : texte en discussion, avis d'autorité, rapport d'institution |
+| Rythme des sujets | **Trois jours d'actualité, deux jours de dilemmes éthiques intemporels, deux jours plus légers** |
+| Corpus de presse | **Liste publique, critères écrits, parité entre familles éditoriales** selon une **classification académique empruntée et citée**, agences de presse comme socle factuel distinct. Toute modification datée et motivée, jamais dans les 24 h précédant une publication |
+| Crises | **Interrupteur manuel** de bascule sur sujet intemporel avec coupure des notifications |
+| Élections | **Règle écrite d'avance** : aucun sujet électoral ni résultat agrégé affiché dans les trente jours précédant un scrutin national, suspension totale du samedi zéro heure à la fermeture des bureaux |
+
+### Pourquoi ces choix tiennent ensemble
+
+- Le tirage aléatoire équilibré retire l'agenda au volume de production de la
+  presse, qui privilégie mécaniquement les sujets les plus polarisants.
+- Le rythme trois-deux-deux est la seule façon d'atteindre les valeurs de
+  Schwartz que l'actualité politique ne touche jamais — l'hédonisme et la
+  bienveillance n'ont pas de sujet de une.
+- Emprunter une classification académique des familles éditoriales plutôt que de
+  la construire soi-même, c'est se donner un contradicteur au lieu de prendre
+  parti.
+- Le quota d'angle mort est aussi ce qui différencie le produit : les arbitrages
+  publics réels se décident largement hors des cycles d'actualité chaude.
