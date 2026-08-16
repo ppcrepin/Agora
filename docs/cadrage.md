@@ -524,3 +524,32 @@ visible, donc compréhensible, et c'est même la meilleure façon de l'enseigner
   sépare ce produit de ceux dont il se distingue.
 - **Un groupe mis en veille ne doit jamais afficher son propre cadavre.** Le
   membre resté seul voit la comparaison nationale, pas quatre lignes vides.
+
+---
+
+## 24. Technique, transparence et périmètre
+
+| Sujet | Décision |
+|---|---|
+| Plateforme | **Application native, dès le départ** — la révélation de 19 h dépend d'une notification fiable, impossible à garantir en web sur iPhone |
+| Hébergement | **Européen**, et architecture conçue pour qu'**aucune donnée personnelle ne parte chez le prestataire d'IA** |
+| Transparence | **Méthodologie du scoring, prompts de génération et critères du corpus publiés** en documentation. Code fermé pour l'instant |
+| Périmètre v1 | **La boucle solo complète** : question, dossier, vote, justification, origine, argument d'en face, contribution au profil, révélation de 19 h, radar et historique. Sans groupe, sans archives, sans bilan |
+| Dossier factuel | **Trois chiffres** avec périmètre, date et producteur, extrait source consultable, et **les contradictions entre sources affichées** plutôt qu'arbitrées en silence |
+| Seuil d'arrêt | **Un budget-temps plafonné**, dont la valeur sera mesurée sur un mois réel avant d'être fixée |
+| Accessibilité | **Reportée**, hors la réserve ci-dessous |
+
+### Réserves inscrites au dossier
+
+- **Le natif ajoute la revue d'Apple** sur une application d'opinion politique,
+  un cycle de mise à jour de plusieurs jours, et un temps de développement
+  nettement supérieur. À confronter au budget-temps une fois celui-ci mesuré.
+- **L'accessibilité est reportée, à une exception près** : l'échelle à six
+  mentions est manipulée vingt-quatre fois par jour par cent pour cent des
+  utilisateurs, et elle est enracinée dans tous les écrans. La construire sur des
+  contrôles natifs coûte zéro maintenant et évite de refaire le composant central
+  plus tard. Le reste de la mise en conformité peut attendre.
+- **Afficher les contradictions entre sources** est le choix le plus exigeant du
+  dossier factuel, et le plus fidèle à la promesse : le désaccord entre sources
+  fiables est une information de premier ordre pour un produit qui veut aider à
+  distinguer ce qu'on sait de ce qu'on ressent.
